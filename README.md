@@ -25,7 +25,7 @@ I'm currently a Master's student in the "Physics of Data" program at the Univers
 
 ## Course Assignments
 Repositories containing weekly homeworks and assignments for different courses:
-- [**Physical Models of Living Systems**](https://github.com/lm-schulze/PMoLS). Topics: Ecological modelling (Population dynamics of single/multiple species, species interaction), Computational Neuroscience (Firing rate network models, more to be added)
+- [**Physical Models of Living Systems**](https://github.com/lm-schulze/PMoLS). Topics: Ecological modelling (Population dynamics of single/multiple species, species interaction), Computational Neuroscience (Firing rate network models, Hopfield networks, more to be added)
 - [**Information Security**](https://github.com/lm-schulze/InfoSec). Topics: Linear cryptanalysis, block ciphers, WTC and random binning encoding, authentication and integrity protection, key agreement schemes
 - [**Quantum Information and Computing**](https://github.com/lm-schulze/quantum_information_computing_2425). Topics: Quantum harmonic oscillator, Quantum Ising Model, Imaginary time evolution for ground state search, Real Space Renormalization Group, Infinite Density Matrix Renormalization Group.
 - [**Laboratory of Computational Physics, Mod. B**](https://github.com/lm-schulze/LCP-Mod-B). Topics: CNNs, Clustering, XGBoost, Restricted Bolzmann Machines.
