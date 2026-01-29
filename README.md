@@ -18,6 +18,7 @@ I'm currently a Master's student in the "Physics of Data" program at the Univers
 - [**Learning the topology of a Bayesian Network from a database of cases using the K2 algorithm**](https://github.com/lm-schulze/bayesian_networks): Final project of the course *Advanced Statistics*. R Implementation of the K2-algorithm to construct Bayesian belief-networks from records, and application to 3 small test datasets and one real-world dataset.
 
 ## Work in progress
+- [**Water Quality in Padova's Canals**](https://github.com/lm-schulze/PadovaCanals): Final project of the course *Modelling and Control of Environmental Systems*. Modelling the Dissolved Oxygen dynamics in Padova's canals based on Water temperature & Solar irradiance in matlab, performing model calibration via particle swarm optimization.
 - [**Community structures in complex networks via maps of random walks**](https://github.com/lm-schulze/ITI_project): Final project for the course *Information Theory and Inference*. Decomposing complex networks into modules by compressing a description of the probability flow of random walks on the network.
 - [**Complex Networks projects**](https://github.com/lm-schulze/PoCN_project): End-of-semester projects for the course *Physics of Complex Networks: Structure and Dynamics*
   - **Robustness of noisy Quantum networks**: Simulating and analysing the robustness of Quantum networks based on Erdős–Rényi and Barabási-Albert structures.
