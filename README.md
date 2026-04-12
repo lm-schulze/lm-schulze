@@ -59,6 +59,7 @@ I'm currently a Master's student in the "Physics of Data" program at the Univers
 - [**Complex Networks projects**](https://github.com/lm-schulze/PoCN_project): End-of-semester projects for the course *Physics of Complex Networks: Structure and Dynamics*
   - **Robustness of noisy Quantum networks**: Simulating and analysing the robustness of Quantum networks based on Erdős–Rényi and Barabási-Albert structures.
   - **European Transportation Network** : Reconstruct and analyse the rail networks for different EU countries, based on the provided network data.
+- [**Immunization on networks with community structure**](https://github.com/lm-schulze/community_immunization): Final project for the course *Physics of Life, Data and Epidemiology*. Comparing immunization strategies on contact networks with community structure.
 
 ## Course Assignments
 Repositories containing weekly homeworks and assignments for different courses:
