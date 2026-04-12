@@ -104,12 +104,12 @@ Repositories containing weekly homeworks and assignments for different courses:
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true">
-    <img align="left" height=200 src="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true">
+    <img align="left" height=150 src="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true">
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gamma-ten-35.vercel.app/api/top-langs/?username=lm-schulze&layout=donut&show_icons=true&theme=merko">
-    <img align="left" height=200 src="[https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true](https://github-readme-stats-gamma-ten-35.vercel.app/api/top-langs/?username=lm-schulze&layout=default&show_icons=true&theme=merko)">
+    <img align="left" height=150 src="[https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true](https://github-readme-stats-gamma-ten-35.vercel.app/api/top-langs/?username=lm-schulze&layout=default&show_icons=true&theme=merko)">
 </picture>
 
 
