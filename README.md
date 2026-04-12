@@ -6,7 +6,7 @@ I'm currently a Master's student in the "Physics of Data" program at the Univers
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true">
-    <img align="right" width="35%" src="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true">
+    <img align="right" width="40%" src="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true">
 </picture>
 
 - 🎓 **Education:** Master’s in Physics of Data, Università degli studi di Padova
@@ -104,12 +104,12 @@ Repositories containing weekly homeworks and assignments for different courses:
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true">
-    <img align="left" height=170 src="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true">
+    <img align="left" height=180 src="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true">
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gamma-ten-35.vercel.app/api/top-langs/?username=lm-schulze&layout=donut&show_icons=true&theme=merko">
-    <img align="left" height=170 src="[https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true](https://github-readme-stats-gamma-ten-35.vercel.app/api/top-langs/?username=lm-schulze&layout=default&show_icons=true&theme=merko)">
+    <img align="left" height=180 src="[https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true](https://github-readme-stats-gamma-ten-35.vercel.app/api/top-langs/?username=lm-schulze&layout=default&show_icons=true&theme=merko)">
 </picture>
 
 
