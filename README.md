@@ -34,8 +34,7 @@ Repositories containing weekly homeworks and assignments for different courses:
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-gamma-ten-35.vercel.app/api/top-langs/?username=lm-schulze&layout=compact&show_icons=true&theme=monokai)
-
-![lm-schulze's GitHub stats](https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=monokai&show_icons=true)
+![Top Languages](https://github-readme-stats-gamma-ten-35.vercel.app/api/top-langs/?username=lm-schulze&layout=donut&show_icons=true&theme=merko)
+![lm-schulze's GitHub stats](https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true)
 
 ---
