@@ -15,8 +15,6 @@ I'm currently a Master's student in the "Physics of Data" program at the Univers
 - 🌐 **Interests:** Complex Networks and their diverse real-world applications
 
 ## Projects
-
-<h3>Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
