@@ -62,11 +62,43 @@ I'm currently a Master's student in the "Physics of Data" program at the Univers
 
 ## Course Assignments
 Repositories containing weekly homeworks and assignments for different courses:
-- [**Physical Models of Living Systems**](https://github.com/lm-schulze/PMoLS). Topics: Ecological modelling (Population dynamics of single/multiple species, species interaction), Computational Neuroscience (Firing rate network models, Hopfield networks, more to be added)
-- [**Information Security**](https://github.com/lm-schulze/InfoSec). Topics: Linear cryptanalysis, block ciphers, WTC and random binning encoding, authentication and integrity protection, key agreement schemes
-- [**Quantum Information and Computing**](https://github.com/lm-schulze/quantum_information_computing_2425). Topics: Quantum harmonic oscillator, Quantum Ising Model, Imaginary time evolution for ground state search, Real Space Renormalization Group, Infinite Density Matrix Renormalization Group.
-- [**Laboratory of Computational Physics, Mod. B**](https://github.com/lm-schulze/LCP-Mod-B). Topics: CNNs, Clustering, XGBoost, Restricted Bolzmann Machines.
-- [**Laboratory of Computational Physics Mod. A**](https://github.com/lm-schulze/LaboratoryOfComputationalPhysics_2324). Topics: Introduction to scientific computing with Python, data analysis and visualization
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📖 Course </b></td>
+      <td><b>📆 Year </b></td>
+      <td><b>🗃️ Topics </b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/lm-schulze/PMoLS"><b> Physical Models of Living Systems</b></a></td>
+     <td><b> 2025/26 </b></td>
+      <td>Ecological modelling (Population dynamics of single/multiple species, species interaction), Computational Neuroscience     (Firing rate network models, Hopfield networks, more to be added).</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lm-schulze/InfoSec"><b> Information Security </b></a></td>
+         <td><b> 2024/25 </b></td>
+      <td> Linear cryptanalysis, block ciphers, WTC and random binning encoding, authentication and integrity protection, key agreement schemes</td>
+    </tr>
+<tr>
+      <td><a href="https://github.com/lm-schulze/quantum_information_computing_2425"><b> Quantum Information and Computing</b></a></td>
+         <td><b> 2024/25 </b></td>
+      <td>Quantum harmonic oscillator, Quantum Ising Model, Imaginary time evolution for ground state search, Real Space Renormalization Group, Infinite Density Matrix Renormalization Group.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lm-schulze/LCP-Mod-B"><b> Laboratory of Computational Physics, Mod. A</b></a></td>
+         <td><b> 2023/24 </b></td>
+      <td> CNNs, Clustering, XGBoost, Restricted Bolzmann Machines.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lm-schulze/LaboratoryOfComputationalPhysics_2324"><b> Laboratory of Computational Physics, Mod. B</b></a></td>
+      <td><b> 2023/24 </b></td>
+      <td> Introduction to scientific computing with Python, data analysis and visualization</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📊 GitHub Stats
 
