@@ -88,12 +88,12 @@ Repositories containing weekly homeworks and assignments for different courses:
       <td>Quantum harmonic oscillator, Quantum Ising Model, Imaginary time evolution for ground state search, Real Space Renormalization Group, Infinite Density Matrix Renormalization Group.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lm-schulze/LCP-Mod-B"><b> Laboratory of Computational Physics, Mod. A</b></a></td>
+      <td><a href="https://github.com/lm-schulze/LCP-Mod-B"><b> Laboratory of Computational Physics, Mod. B</b></a></td>
          <td><b> 2023/24 </b></td>
       <td> CNNs, Clustering, XGBoost, Restricted Bolzmann Machines.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lm-schulze/LaboratoryOfComputationalPhysics_2324"><b> Laboratory of Computational Physics, Mod. B</b></a></td>
+      <td><a href="https://github.com/lm-schulze/LaboratoryOfComputationalPhysics_2324"><b> Laboratory of Computational Physics, Mod. A</b></a></td>
       <td><b> 2023/24 </b></td>
       <td> Introduction to scientific computing with Python, data analysis and visualization</td>
     </tr>
