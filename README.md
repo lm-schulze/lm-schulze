@@ -11,8 +11,18 @@ I'm currently a Master's student in the "Physics of Data" program at the Univers
 
 - 🎓 **Education:** Master’s in Physics of Data, Università degli studi di Padova
 - 🧪 **Focus Areas:** Scientific computing, data analysis, data visualization, interdisciplinary physics
-- 🐍 **Coding:** Primarily Python, with some experience in R and minor experience in Julia, C++ and Matlab
 - 🌐 **Interests:** Complex Networks and their diverse real-world applications
+- 🐍 **Coding:** Primarily Python, with some experience in R and minor experience in Julia, C++ and Matlab
+
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,anaconda,latex,julia,matlab,r,git" />
+  </a>
+</p>
+
+  <img src="https://img.shields.io/badge/NUMPY-%20brightgreen" height="25" /> <img src="https://img.shields.io/badge/PANDAS-orange" height="25" /> <img src="https://img.shields.io/badge/MATPLOTLIB-pink" height="25" /> <img src="https://img.shields.io/badge/IGRAPH-1A8BE2" height="25" /> <img src="https://img.shields.io/badge/NETWORKX-3A1BE5" height="25" /> <img src="https://img.shields.io/badge/SCIPY-violet" height="25" /> <img src="https://img.shields.io/badge/SCIKIT-red" height="25" /> <img src="https://img.shields.io/badge/PYTORCH-purple" height="25" />
+
 
 ## Projects
 <table>
