@@ -36,6 +36,7 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/networkx-2C7319?style=for-the-badge&logo=igraph&logoColor=white" alt="networkx" />
   <img src="https://img.shields.io/badge/igraph-E72618?style=for-the-badge&logo=igraph&logoColor=white" alt="igraph" />
+  <img src="https://img.shields.io/badge/qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="qiskit" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
