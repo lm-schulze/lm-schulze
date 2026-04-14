@@ -1,6 +1,6 @@
 # Hi there, I'm Laura Schulze!
 
-I'm currently a Master's student in the "Physics of Data" program at the Università degli studi di Padova.
+I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.it/) program at the Università degli studi di Padova.
 
 ## About Me
 
