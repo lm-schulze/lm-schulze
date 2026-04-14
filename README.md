@@ -4,10 +4,12 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
 
 ## About Me
 
+<!--
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true">
     <img align="right" width="40%" src="https://github-readme-stats-gamma-ten-35.vercel.app/api?username=lm-schulze&show_icons=true&theme=merko&show_icons=true&hide_rank=true">
 </picture>
+-->
 
 - 🎓 **Education:** Master’s in Physics of Data, Università degli studi di Padova
 - 🧪 **Focus Areas:** Scientific computing, data analysis, data visualization, interdisciplinary physics
