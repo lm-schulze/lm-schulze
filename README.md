@@ -14,7 +14,7 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
 - 🌐 **Interests:** Complex Networks and their diverse real-world applications
 - 🐍 **Coding:** Primarily Python, with some experience in R and minor experience in Julia, C++ and Matlab
 
-
+<!--
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,anaconda,latex,julia,matlab,r,git" />
@@ -22,7 +22,25 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
 </p>
 
   <img src="https://img.shields.io/badge/NUMPY-%20brightgreen" height="25" /> <img src="https://img.shields.io/badge/PANDAS-orange" height="25" /> <img src="https://img.shields.io/badge/MATPLOTLIB-pink" height="25" /> <img src="https://img.shields.io/badge/IGRAPH-1A8BE2" height="25" /> <img src="https://img.shields.io/badge/NETWORKX-3A1BE5" height="25" /> <img src="https://img.shields.io/badge/SCIPY-violet" height="25" /> <img src="https://img.shields.io/badge/SCIKIT-red" height="25" /> <img src="https://img.shields.io/badge/PYTORCH-purple" height="25" />
+-->
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Anaconda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/networkx-2C7319?style=for-the-badge&logo=igraph&logoColor=white" alt="networkx" />
+  <img src="https://img.shields.io/badge/igraph-E72618?style=for-the-badge&logo=igraph&logoColor=white" alt="igraph" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+</div>
 
 ## Projects
 <table>
@@ -129,4 +147,5 @@ Repositories containing weekly homeworks and assignments for different courses:
   <img alt="github-snake" src="https://raw.githubusercontent.com/lm-schulze/lm-schulze/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+![](https://komarev.com/ghpvc/?username=lm-schulze&label=PROFILE+VIEWS&color=green)
 ---
