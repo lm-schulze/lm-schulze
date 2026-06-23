@@ -12,7 +12,7 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
 -->
 
 - 🎓 **Education:** Master’s in Physics of Data, Università degli studi di Padova
-- 🧪 **Focus Areas:** Scientific computing, data analysis, data visualization, interdisciplinary physics
+- 🧪 **Focus Areas:** Scientific computing, data analysis & visualization, interdisciplinary physics
 - 🌐 **Interests:** Complex Networks and their diverse real-world applications
 - 🐍 **Coding:** Primarily Python, with some experience in R and minor experience in Julia, C++ and Matlab
 
@@ -47,7 +47,14 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </div>
 
-## Projects
+## Work in progress
+- [**Community detection in complex networks via Infomap and Neuromap**](https://github.com/lm-schulze/ITI_project): Final project for the course *Information Theory and Inference*. Comparison of community detection via the Infomap algorithm vs. Neuromap used with GCN, FastGCN and GraphSAGE.
+- [**Immunization on networks with community structure**](https://github.com/lm-schulze/community_immunization): Final project for the course *Physics of Life, Data and Epidemiology*. Comparing immunization strategies on contact networks with community structure.
+- [**Complex Networks projects**](https://github.com/lm-schulze/PoCN_project): End-of-semester projects for the course *Physics of Complex Networks: Structure and Dynamics*
+  - **Game Theory on networks**: Simulating and analysing games (Prisoner's Dilemma, Ultimatum game) on complex networks.
+  - **Adaptive vulnerability in transportation and power-grid networks with SEAMLESS** : Using the SEAMLESS framework on infrastructure networks, trying to use adaptive topological vulnerability to identify structurally critical regions, nodes, or links that are not detected by classical centrality-based or degree-based approaches.
+
+## Finished Projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -86,13 +93,6 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
     </tr>
   </tbody>
 </table>
-
-## Work in progress
-- [**Community structures in complex networks via maps of random walks**](https://github.com/lm-schulze/ITI_project): Final project for the course *Information Theory and Inference*. Decomposing complex networks into modules by compressing a description of the probability flow of random walks on the network.
-- [**Complex Networks projects**](https://github.com/lm-schulze/PoCN_project): End-of-semester projects for the course *Physics of Complex Networks: Structure and Dynamics*
-  - **Robustness of noisy Quantum networks**: Simulating and analysing the robustness of Quantum networks based on Erdős–Rényi and Barabási-Albert structures.
-  - **European Transportation Network** : Reconstruct and analyse the rail networks for different EU countries, based on the provided network data.
-- [**Immunization on networks with community structure**](https://github.com/lm-schulze/community_immunization): Final project for the course *Physics of Life, Data and Epidemiology*. Comparing immunization strategies on contact networks with community structure.
 
 ## Course Assignments
 Repositories containing weekly homeworks and assignments for different courses:
