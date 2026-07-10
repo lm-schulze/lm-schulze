@@ -1,4 +1,4 @@
-# Hi there, I'm Laura Schulze!
+# Hi there, I'm Laura!
 
 I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.it/) program at the Università degli studi di Padova.
 
@@ -49,7 +49,6 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
 
 ## Work in progress
 - [**Community detection in complex networks via Infomap and Neuromap**](https://github.com/lm-schulze/ITI_project): Final project for the course *Information Theory and Inference*. Comparison of community detection via the Infomap algorithm vs. Neuromap used with GCN, FastGCN and GraphSAGE.
-- [**Immunization on networks with community structure**](https://github.com/lm-schulze/community_immunization): Final project for the course *Physics of Life, Data and Epidemiology*. Comparing immunization strategies on contact networks with community structure.
 - [**Complex Networks projects**](https://github.com/lm-schulze/PoCN_project): End-of-semester projects for the course *Physics of Complex Networks: Structure and Dynamics*
   - **Game Theory on networks**: Simulating and analysing games (Prisoner's Dilemma, Ultimatum game) on complex networks.
   - **Adaptive vulnerability in transportation and power-grid networks with SEAMLESS** : Using the SEAMLESS framework on infrastructure networks, trying to use adaptive topological vulnerability to identify structurally critical regions, nodes, or links that are not detected by classical centrality-based or degree-based approaches.
@@ -63,6 +62,10 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/lm-schulze/community_immunization"><b>Immunization on networks with community structure</b></a></td>
+      <td>Final project of the course <i>Physics of Life, Data and Epidemiology</i>. Comparison of local information-based immunization strategies on contact networks with community structure via SIR simulations. </td>
+    </tr>    
     <tr>
       <td><a href="https://github.com/lm-schulze/NNDL_project_Cars"><b>Car make classification and verification using Snapshot Ensembling</b></a></td>
       <td>Final project for the course <i>Neural Networks and Deep Learning</i>. We train a model for car make classification and verification based on images from the CompCars dataset and use snapshot ensembling to improve performance without incurring additional training cost.</td>
