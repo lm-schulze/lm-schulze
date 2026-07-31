@@ -48,11 +48,10 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
 </div>
 
 ## Work in progress
-- [**Community detection in complex networks via Infomap and Neuromap**](https://github.com/lm-schulze/ITI_project): Final project for the course *Information Theory and Inference*. Comparison of community detection via the Infomap algorithm vs. Neuromap used with GCN, FastGCN and GraphSAGE.
 - [**Complex Networks projects**](https://github.com/lm-schulze/PoCN_project): End-of-semester projects for the course *Physics of Complex Networks: Structure and Dynamics*
   - **Game Theory on networks**: Simulating and analysing games (Prisoner's Dilemma, Ultimatum game) on complex networks.
   - **Adaptive vulnerability in transportation and power-grid networks with SEAMLESS** : Using the SEAMLESS framework on infrastructure networks, trying to use adaptive topological vulnerability to identify structurally critical regions, nodes, or links that are not detected by classical centrality-based or degree-based approaches.
-
+ 
 ## Finished Projects
 <table>
   <thead align="center">
@@ -62,6 +61,10 @@ I'm currently a Master's student in the [Physics of Data](https://pod.dfa.unipd.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/lm-schulze/ITI_project"><b>Community detection in complex networks via Infomap and Neuromap</b></a></td>
+      <td>Final project for the course <i>Information Theory and Inference</i>. Comparison of community detection via the Infomap algorithm vs. Neuromap used with GCN, GIN, GAT, and GraphSAGE.</td>
+    </tr>    
     <tr>
       <td><a href="https://github.com/lm-schulze/community_immunization"><b>Immunization on networks with community structure</b></a></td>
       <td>Final project of the course <i>Physics of Life, Data and Epidemiology</i>. Comparison of local information-based immunization strategies on contact networks with community structure via SIR simulations. </td>
